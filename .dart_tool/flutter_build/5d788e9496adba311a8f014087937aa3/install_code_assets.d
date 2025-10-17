@@ -1,0 +1,1 @@
+ C:\\Users\\farhan\\biodata_app\\.dart_tool\\flutter_build\\5d788e9496adba311a8f014087937aa3\\native_assets.json: 

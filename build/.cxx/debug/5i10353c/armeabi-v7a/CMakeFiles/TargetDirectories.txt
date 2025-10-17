@@ -1,0 +1,2 @@
+C:/Users/farhan/biodata_app/build/.cxx/debug/5i10353c/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/farhan/biodata_app/build/.cxx/debug/5i10353c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
