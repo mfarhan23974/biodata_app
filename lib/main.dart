@@ -48,7 +48,7 @@ class BiodataApp extends StatelessWidget {
                     Icon(Icons.person, color: Colors.teal, size: 28),
                     SizedBox(width: 10), // Jarak antara ikon dan teks
                     Text(
-                      'Nama: M farhan chablullah',
+                      'Nama: dwi astina',
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
@@ -74,7 +74,7 @@ class BiodataApp extends StatelessWidget {
                     Icon(Icons.email, color: Colors.orange, size: 24),
                     SizedBox(width: 10),
                     Text(
-                      'Email: mfarhanchablullah@gmail.com',
+                      'Email: dwi123astina@gmail.com',
                       style: TextStyle(fontSize: 18, color: Colors.deepOrange),
                     ),
                   ],
@@ -95,7 +95,7 @@ class BiodataApp extends StatelessWidget {
                     Icon(Icons.phone, color: Colors.lightBlue, size: 24),
                     SizedBox(width: 10),
                     Text(
-                      'Telepon: 082299202193 ',
+                      'Telepon:+62 823-7990-6233 ',
                       style: TextStyle(fontSize: 18, color: Colors.blue),
                     ),
                   ],
@@ -135,7 +135,7 @@ class BiodataApp extends StatelessWidget {
                         left: 34.0,
                       ), // Indentasi untuk teks alamat
                       child: Text(
-                        'kec.sei gelam. , muaro jambi, Indonesia',
+                        'puri masuray. , muaro jambi, Indonesia',
                         style: TextStyle(fontSize: 16, color: Colors.black87),
                       ),
                     ),
